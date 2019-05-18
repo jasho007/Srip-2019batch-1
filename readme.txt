@@ -1,1 +1,1 @@
-This is only a file to create new repo
+used to give weekly reports
